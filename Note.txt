@@ -1,0 +1,99 @@
+combination of javascript and html 
+const element =<h2> hello world </h2>
+this tag is neither a string nor a html 
+>>> JSX and the expression to javascript
+>>> React --- JSX
+
+>>> JSX implementation itself used to build UI in React
+React  || template
+
+syantx
+____________
+
+component --1 Functional 2. class
+
+function <function name>(){ return( <div> </div>)}
+
+Embeded expression in JSX
+--------------------------
+int number=100;
+syso(number);//100
+
+Data type 
+let, var, const
+let name="Rahul"
+let element=<h1> hello , Good morning!!{name} </h1>
+
+>>> Embeded expression in React
+
+
+Babel javascript compiler.
+
+
+___________________________________________________________________
+Functional component    class component
+
+Simple function         More feature 
+
+
+
+Different between props and State
+
+Props                                       State
+props -Properties -                          State is managed within component
+parameters | 
+arguments                                           
+
+props - Functional component              variables declared in the function body 
+this.props - class component              state can be changed 
+                                          use State Hook - Functional implementation
+                                           this.state -class implementation
+                                           
+                                           
+
+
+Method as Properties..!!!
+============================
+name 
+age 
+city
+anything--- want as a sentance or word on the website
+buttons,forms, textarea,video,audio,links,routes
+
+
+
+
+
+Canditional Rendering 
+>>if/else statements
+>>Element variables
+>> Ternary Canditional operators
+>> Short circuit operator
+>> Nested if condition
+
+React - Forms 
+
+1. Controlledcomponents 
+React-- buttons will not work 
+
+
+
+git squash
+
+
+git rebase -i HEAD ~5  remove 5 comitts
+
+git status
+
+git commit --amend
+
+git push -f
+
+
+
+
+
+
+
+
+
